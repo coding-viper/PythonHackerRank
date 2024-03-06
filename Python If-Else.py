@@ -19,3 +19,6 @@ if __name__ == '__main__':
             print("Weird")
         elif i > 20 :
             print("Not Weird")
+
+
+# github:@coding-viper
